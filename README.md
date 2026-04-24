@@ -37,7 +37,7 @@ These insights empower stakeholders with key business metrics, enabling strategi
 This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and share this project with proper attribution.
 
 ## 🌞 About Me
-Hi there! I'm **Praveen Agrawal**, also known as **Data With Baraa**. I'm a professional on a mission to learn and share knowledge that is enjoyable and engaging!
+Hi there! I'm **Praveen Agrawal** a professional on a mission to learn and share knowledge that is enjoyable and engaging!
 
 
   
